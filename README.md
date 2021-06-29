@@ -1,23 +1,25 @@
 ## 💫  BOOTCAMP ALGORITHMS PARTY
 
+[ 🙋‍♂️ 멤버 확인하기 ](https://www.notion.so/Algorithms-Party-370b5a12570e4b9584a803f811a57541)
+
 ### 참여방법
-* 📌 ❗️ [Contribute Guide]
+* 📌 ❗️ [Contribute Guide](https://www.notion.so/Schedule-85c318aff77e4492a97e60828896d34b)
 
-### 🙋‍♂️ Schdule
+### 🗓 Schdule
 
-#### [ 스케쥴 확인하기 ](https://www.notion.so/Algorithms-Party-Schedule-370b5a12570e4b9584a803f811a57541)
+#### [ 🗓 스케쥴 확인하기 ](https://www.notion.so/Algorithms-Party-Schedule-370b5a12570e4b9584a803f811a57541)
 
-- 스케쥴을 상시 확인하여 2주에 한번 혹은 1주에 한번 zoom meeting 을 통해 각자가 공부 한것과 앞으로의 공부 계획에 대해서 이야기 해보며 결의를 다지는 것으로 진행할 계획입니다. 상시로 업데이트 되니 수시로 확인해 주세요 ! 
+- 스케쥴을 상시 확인하여 2주에 한번 혹은 1주에 한번 zoom meeting 을 통해 각자가 공부 한것과 앞으로의 공부 계획에 대해서 이야기 해보며 결의를 다지는 것으로 진행할 계획입니다. 상시로 업데이트 되니 스케쥴을 수시로 확인해 주세요 ! 
 
 
-### 스터디 규칙 및 운영
+### 👨‍👨‍👦‍👦 스터디 규칙 및 운영
 
 - 전학년 참여 가능하며 프로그래밍 언어는 자유입니다.
 - 하루에 한문제씩 스스로 골라 풀이한것을 Pull Request 하여 매일 저녁 11:59 전까지 Pull Request 를 올려주셔야 합니다.
 니다.
-- [Contribute Guide] 를 참고하여 규칙에 맞게 pull request 부탁 드립니다. 
+- [Contribute Guide](https://www.notion.so/Schedule-85c318aff77e4492a97e60828896d34b) 를 참고하여 규칙에 맞게 pull request 부탁 드립니다. 
 - 등원시간 등 짬이 날때 마다 다른 분의 문제 풀이를 보면서 공부하시길 바랍니다.
-- 
+- 위 사항에 대해서 지켜지지 않을 경우 그에 따른 패널티가 적용될 예정입니다. 추후 공지 하겠습니다. 
 
 ### 문제 사이트
 * [BaekJoon Online Judge](https://www.acmicpc.net/) - 문제 수가 굉장히 많은것이 장점, [solved.ac](https://solved.ac/problems/level)와 연동해서 사용하는것을 추천
