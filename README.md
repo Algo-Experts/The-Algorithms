@@ -3,7 +3,7 @@
 [ 🙋‍♂️ 멤버 확인하기 ](https://www.notion.so/Algorithms-Party-370b5a12570e4b9584a803f811a57541)
 
 ### 참여방법
-* 📌 ❗️ [Contribute Guide](https://www.notion.so/Schedule-85c318aff77e4492a97e60828896d34b)
+* [Contribute Guide](https://www.notion.so/Schedule-85c318aff77e4492a97e60828896d34b)
 
 ### 🗓 Schdule
 
