@@ -33,8 +33,7 @@
 
 - 프로그래밍 언어는 자유입니다. 👍
 
-- 하루에 한문제씩 스스로 골라 풀이한것을 Pull Request 하여 매일 저녁 11:59 전까지 Pull Request 를 올려주셔야 합니다.
-니다. 👍
+- 하루에 한문제씩 스스로 골라 풀이한것을 Pull Request 하여 매일 저녁 11:59 전까지 Pull Request 를 올려주셔야 합니다.👍
 
 - [Contribute Guide](https://www.notion.so/Schedule-85c318aff77e4492a97e60828896d34b) 를 참고하여 규칙에 맞게 pull request 부탁 드립니다. 👍
 
