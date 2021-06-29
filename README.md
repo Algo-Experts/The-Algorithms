@@ -3,26 +3,33 @@
 
 ### [ 🙋‍♂️ 자랑스러운 멤버 확인하기 ](https://www.notion.so/Algorithms-Party-370b5a12570e4b9584a803f811a57541)
 
+
 <hr/>
+
 
 ### 👨‍💻 👩‍💻 참여방법
 
-<hr/>
 
 [ ‼️ Contribute Guide](https://www.notion.so/Schedule-85c318aff77e4492a97e60828896d34b)
 
-### 🗓 Schdule
+
 
 <hr/>
+
+
+### 🗓 Schdule
+
 
 #### [ 🗓 스케쥴 확인하기 ](https://www.notion.so/Algorithms-Party-Schedule-370b5a12570e4b9584a803f811a57541)
 
 - 스케쥴을 상시 확인하여 2주에 한번 혹은 1주에 한번 zoom meeting 을 통해 각자가 공부 한것과 앞으로의 공부 계획에 대해서 이야기 해보며 결의를 다지는 것으로 진행할 계획입니다. 상시로 업데이트 되니 스케쥴을 수시로 확인해 주세요 ! 
 
 
+<hr/>
+
+
 ### 👨‍👨‍👦‍👦 스터디 규칙 및 운영
 
-<hr/>
 
 - 프로그래밍 언어는 자유입니다. 👍
 
@@ -35,9 +42,12 @@
 
 - 위 사항에 대해서 지켜지지 않을 경우 그에 따른 패널티가 적용될 예정입니다. 이에 따른 내용은 추후 공지 하겠습니다 ❗️ 
 
-### 문제 사이트
 
 <hr/>
+
+
+### 문제 사이트
+
 
 * [Code UP](https://www.codeup.kr/problemsetsol.php?psid=33) 기초를 다지는 사이트 입니다. java , python , c++ 등 의 언어를 제공합니다. (swift는 지원 ❌ )
 
@@ -51,6 +61,10 @@
 
 * [Codeforces](https://codeforces.com/) - 해외 알고리즘 사이트, 주 2회 이상의 알고리즘 대회, 코딩테스트보다는 알고리즘 대회에 관심있는 경우 추천
 
+
+<hr/>
+
+
 ### Reference
 
 * [대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서](https://www.youtube.com/watch?v=ukkLCl9yBvE)
@@ -58,6 +72,10 @@
 * [[공부법] 알고리즘 공부법](https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html)
 
 * [알고리즘 공부방법/순서](https://baactree.tistory.com/14)
+
+
+<hr/>
+
 
 ### 동영상 강의
 
