@@ -2,10 +2,12 @@
 
 def solution(new_id):
 
-    new_id = new_id.lower()
-
     answer = ''
 
+#   모든 문자를 소문자로 만든다
+    new_id = new_id.lower()
+
+#  isalnum 메소드는 true false 를 return 해주는데 직관적으로 모두 숫자인지 알파벳인지를 확인해준다.
     for word in new_id:
         if word.isalnum() or word in '._-':
             answer += word
