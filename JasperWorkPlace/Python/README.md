@@ -1,6 +1,6 @@
 ## Python Useful Method
 
-#### 중요 알고리즘 유형 정리
+#### 🙋‍♂️ 중요 알고리즘 유형 정리
 
 1. [Greedy](https://github.com/jasper-oh/coding-test-algorithm)
 2. [DFS/BDS](https://github.com/jasper-oh/coding-test-algorithm)
@@ -10,12 +10,12 @@
 6. [Short Path](https://github.com/jasper-oh/coding-test-algorithm)
 7. [Graph](https://github.com/jasper-oh/coding-test-algorithm)
 
-#### Context
+#### 🙋‍♂️ Context
 
 1. 문자열, 숫자열
 2. ...
 
-#### 중요 메서드 정리
+#### 🙋‍♂️ 중요 메서드 정리
 
 2021-07-01
 
