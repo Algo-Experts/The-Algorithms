@@ -11,7 +11,7 @@ def solution(new_id):
     for word in new_id:
         if word.isalnum() or word in '._-':
             answer += word
-
+# ..  가 위치해 있다면 . 로 모두 수정 해준다.
     while '..' in answer:
         answer = answer.replace('..', '.')
 
