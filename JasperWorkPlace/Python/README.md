@@ -21,3 +21,7 @@
 
 count(n) -> 해당 배열 속에 n 이 몇개 들어있는지 확인해 주는 메소드
 [확인](https://www.geeksforgeeks.org/python-list-function-count/)
+
+2021-07-02
+
+배열의 중복을 제거 할때는 list(set(array)) 로 집합 형태로 변환 한 후에 다른 배열로 만들어 버리면 간단하다.
