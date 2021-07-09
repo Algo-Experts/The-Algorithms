@@ -42,7 +42,7 @@ def solution(board, moves):
                         # basket 안에서 제거해준다.
                         basket.pop(-1)
                         basket.pop(-1)
-                        # basket 더해준다.
+                        # 터트려진 숫자(인형) 의 수를 answer에 더해준다.
                         answer += 2
                 break
     return answer
