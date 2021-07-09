@@ -35,3 +35,26 @@ a = bin(arr1[i] | arr2[i])[2:]
 🐬 and operator => x & y
 🐬 not operator => ~ x
 🐬 XOR operator => x ^ y
+
+2021-07-09
+
+```python
+
+#  재미 삼아 만들어 본해당 list 안에 있는 원소가 list 인지 아닌지 판단한다음
+#  list 라면, 내부로 진입하며, 만약 list 형이 아니라면,
+#  출력 하는 형태의 매소드
+var = [1, 2, ['a', 'b', ['Dream', "TRUE"]]]
+
+
+def getArrayElement(var):
+    for i in range(len(var)):
+        if type(var[i]) != list:
+            print(var[i])
+        else:
+            for j in range(len(var[i])):
+                if type(var[i][j]) != list:
+                    print(var[i][j])
+                else:
+                    for k in range(len(var[i][j])):
+                        print(var[i][j][k])
+```
