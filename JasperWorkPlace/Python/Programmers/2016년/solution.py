@@ -2,7 +2,7 @@
 
 # 문제 풀이 순서
 
-# 1. datetime 을 import 한다
+# 1. datetime 을 import 한다.
 # 2. list 형태로 "MON" , "TUE" ... ,SUN 으로 만들어준다.
 # 3. datetime.date().weekday 를 사용후 dictionary 에서 참조해 return
 
