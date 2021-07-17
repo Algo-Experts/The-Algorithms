@@ -18,3 +18,6 @@
 
 ###### 2021-07-17) https://www.acmicpc.net/problem/2217
 그리디 문제7 / 로프
+
+###### 2021-07-17) https://www.acmicpc.net/problem/1011
+그리디 문제7 / Fly me to the Alpha Centauri
