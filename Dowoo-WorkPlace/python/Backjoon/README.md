@@ -20,4 +20,7 @@
 그리디 문제7 / 로프
 
 ###### 2021-07-17) https://www.acmicpc.net/problem/1011
-그리디 문제7 / Fly me to the Alpha Centauri
+그리디 문제8 / Fly me to the Alpha Centauri
+
+###### 2021-07-17) https://www.acmicpc.net/problem/10162
+그리디 문제9 / 전자레인지
