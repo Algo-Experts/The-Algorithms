@@ -26,6 +26,7 @@ var reverse = function (x) {
 
   let max = Math.pow(2, 31) - 1;
   let min = -Math.pow(2, 31);
+  //   let min = Math.pow(-2 , 31)
 
   if (x > 0 && x <= max) {
     var a = Array.from(String(x), Number).reverse();
