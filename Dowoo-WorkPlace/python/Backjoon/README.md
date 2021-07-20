@@ -19,8 +19,13 @@
 ###### 2021-07-17) https://www.acmicpc.net/problem/2217
 그리디 문제7 / 로프
 
-###### 2021-07-17) https://www.acmicpc.net/problem/1011
+###### 2021-07-18) https://www.acmicpc.net/problem/1011
 그리디 문제8 / Fly me to the Alpha Centauri
 
-###### 2021-07-17) https://www.acmicpc.net/problem/10162
+###### 2021-07-19) https://www.acmicpc.net/problem/10162
 그리디 문제9 / 전자레인지
+
+###### 2021-07-20) https://www.acmicpc.net/problem/1946
+그리디 문제10 / 신입사원
+
+
