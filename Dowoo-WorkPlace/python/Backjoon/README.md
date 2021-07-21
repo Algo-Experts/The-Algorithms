@@ -28,4 +28,10 @@
 ###### 2021-07-20) https://www.acmicpc.net/problem/1946
 그리디 문제10 / 신입사원
 
+###### 2021-07-21) https://www.acmicpc.net/problem/1789
+그리디 문제11 / 수들의 합
+
+
+
+
 
