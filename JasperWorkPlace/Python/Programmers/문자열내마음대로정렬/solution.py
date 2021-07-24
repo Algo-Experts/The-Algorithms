@@ -11,7 +11,5 @@ def solution(strings, n):
 
 
 # strings = ["sun", "bed", "car"]
-
 # n = 2
-
 # print(solution(strings, n))
