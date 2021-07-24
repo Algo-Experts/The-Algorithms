@@ -37,6 +37,8 @@
 ###### 2021-07-23) https://www.acmicpc.net/problem/1339
 그리디 문제13 / 단어수학
 
+###### 2021-07-24) https://www.acmicpc.net/problem/1715
+그리디 문제14 / 카드 정렬하기
 
 
 
