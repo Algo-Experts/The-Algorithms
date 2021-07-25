@@ -1,7 +1,7 @@
 (알로리즘을 위한)
 # The Swift Programming Language 
 
-# Array
+# Array 다루기
 > 빈 배열 생성
 ```swift
 var array1 : [Any] = []
@@ -50,6 +50,20 @@ let numbersSum = num.reduce(0) { $0 + $1 } // numberSum == 10
 
 ```
 
+## enumerated
+Returns a sequence of pairs (n, x), where n represents a consecutive integer starting at zero and x represents an element of the sequence.
+
+> 0부터 시작하는 연속적인 정수를 n, 시퀀스의 요소를 x로 정하면, (n,x)의 시퀀스를 리턴합니다.
+```swift
+for (n, c) in "Swift".enumerated() {
+    print("\(n): '\(c)'")
+}
+// Prints "0: 'S'"
+// Prints "1: 'w'"
+// Prints "2: 'i'"
+// Prints "3: 'f'"
+// Prints "4: 't'"
+```
 
 
 # Optional
