@@ -46,6 +46,8 @@
 ###### 2021-07-26) https://www.acmicpc.net/problem/1439
 그리디 문제16 / 뒤집기
 
+###### 2021-07-27) https://www.acmicpc.net/problem/2437
+그리디 문제17 / 저울
 
 
 
