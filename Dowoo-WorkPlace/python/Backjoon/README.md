@@ -43,6 +43,9 @@
 ###### 2021-07-25) https://www.acmicpc.net/problem/4796
 그리디 문제15 / 캠핑
 
+###### 2021-07-26) https://www.acmicpc.net/problem/1439
+그리디 문제16 / 뒤집기
+
 
 
 
