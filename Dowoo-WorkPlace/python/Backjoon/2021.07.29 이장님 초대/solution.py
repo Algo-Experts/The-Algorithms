@@ -30,6 +30,7 @@ N = int(input())
 T = list(map(int,input().split()))
 T.sort(reverse=True)
 result = []
+
 #2. 심는 당일이 1일이고 자란 후 다음날 초대해야하므로 +1 해야해서 총 2일 더해준다.
 Day = 2
 
