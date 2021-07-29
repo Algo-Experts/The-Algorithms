@@ -29,10 +29,12 @@ coins = [25, 10, 5, 1]
 for i in range(T) :
     count = []
     C = int(input())
+    
     # 3. 코인 나눠서 값을 리스트에 담아둠.
     for i  in range(len(coins)) :
         count.append(C // coins[i])
         C = C%coins[i]
+    
     # 4. 리스트 출력
     for c in count :
         print(c, end=" ")
