@@ -37,6 +37,5 @@ for i in range(1,len(S)) :
             count0 +=1
         else :
             count1 +=1
-        
-        
+      
 print(min(count0,count1))
