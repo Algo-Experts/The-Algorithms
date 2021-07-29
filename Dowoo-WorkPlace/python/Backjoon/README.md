@@ -49,6 +49,9 @@
 ###### 2021-07-27) https://www.acmicpc.net/problem/2437
 그리디 문제17 / 저울
 
+###### 2021-07-28) https://www.acmicpc.net/problem/2720
+그리디 문제18 / 세탁소 사장 동혁
+
 
 
 
