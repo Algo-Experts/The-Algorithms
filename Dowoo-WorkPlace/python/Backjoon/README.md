@@ -55,6 +55,10 @@
 ###### 2021-07-28) https://www.acmicpc.net/submit/9237
 그리디 문제19 / 이장님 초대
 
+###### 2021-07-28) https://www.acmicpc.net/problem/11497
+그리디 문제20 / 통나무 건너뛰기
+
+
 
 
 
