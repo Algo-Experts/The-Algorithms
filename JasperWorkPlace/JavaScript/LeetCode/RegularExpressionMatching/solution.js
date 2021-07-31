@@ -8,7 +8,6 @@ var isMatch = function (s, p) {
   const dp = Array.from({ length: s.length + 1 }, () => [false]);
   dp[0][0] = true;
 
-  // fill first row
   for (let i = 1; i <= p.length; i++) {
     if (p[i - 1] === "*") dp[0][i] = dp[0][i - 2];
     else dp[0][i] = false;
