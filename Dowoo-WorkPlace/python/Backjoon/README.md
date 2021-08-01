@@ -58,8 +58,12 @@
 ###### 2021-07-30) https://www.acmicpc.net/problem/11497
 그리디 문제20 / 통나무 건너뛰기
 
-###### 2021-07-31) https://www.acmicpc.net/problem/11497
+###### 2021-07-31) https://www.acmicpc.net/problem/19941
 그리디 문제21 / 햄버거 분배
+
+###### 2021-08-01) https://www.acmicpc.net/source/31606720
+그리디 문제22 / 스네이크버드
+
 
 
 
