@@ -52,11 +52,14 @@
 ###### 2021-07-28) https://www.acmicpc.net/problem/2720
 그리디 문제18 / 세탁소 사장 동혁
 
-###### 2021-07-28) https://www.acmicpc.net/submit/9237
+###### 2021-07-29) https://www.acmicpc.net/submit/9237
 그리디 문제19 / 이장님 초대
 
-###### 2021-07-28) https://www.acmicpc.net/problem/11497
+###### 2021-07-30) https://www.acmicpc.net/problem/11497
 그리디 문제20 / 통나무 건너뛰기
+
+###### 2021-07-31) https://www.acmicpc.net/problem/11497
+그리디 문제21 / 햄버거 분배
 
 
 
