@@ -64,6 +64,9 @@
 ###### 2021-08-01) https://www.acmicpc.net/source/31606720
 그리디 문제22 / 스네이크버드
 
+###### 2021-08-02) https://www.acmicpc.net/problem/11508
+그리디 문제23 / 2+1세일
+
 
 
 
