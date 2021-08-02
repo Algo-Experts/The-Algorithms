@@ -7,7 +7,10 @@
  *
  * 1. 반복되어 지는 수인지 체크하고 bool 값  return 해준다.
  *
+ * << JS >>
+ * toString integer -> string
  *
+ * split() -> 리스트화 해주는 것 같다.
  */
 
 var isPalindrome = function (x) {
