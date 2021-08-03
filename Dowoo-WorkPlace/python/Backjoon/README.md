@@ -67,8 +67,8 @@
 ###### 2021-08-02) https://www.acmicpc.net/problem/11508
 그리디 문제23 / 2+1세일
 
-
-
+###### 2021-08-03) https://www.acmicpc.net/submit/1343/31754782
+그리디 문제24 / 폴리오미노
 
 
 
