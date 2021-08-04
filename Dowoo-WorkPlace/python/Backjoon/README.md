@@ -70,5 +70,8 @@
 ###### 2021-08-03) https://www.acmicpc.net/submit/1343/31754782
 그리디 문제24 / 폴리오미노
 
+###### 2021-08-04) https://www.acmicpc.net/problem/20044
+그리디 문제 25 / Team Project
+
 
 
