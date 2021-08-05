@@ -73,5 +73,8 @@
 ###### 2021-08-04) https://www.acmicpc.net/problem/20044
 그리디 문제 25 / Team Project
 
+###### 2021-08-05) https://www.acmicpc.net/problem/13417
+그리디 문제 26 / 카드 문자열
+
 
 
