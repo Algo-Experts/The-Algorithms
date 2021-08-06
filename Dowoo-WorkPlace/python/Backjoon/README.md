@@ -76,5 +76,7 @@
 ###### 2021-08-05) https://www.acmicpc.net/problem/13417
 그리디 문제 26 / 카드 문자열
 
+###### 2021-08-06) https://www.acmicpc.net/problem/14469
+그리디 문제 27 / 소가 길을 건너간 이유3
 
 
