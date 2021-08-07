@@ -10,7 +10,7 @@ func solution(_ board:[[Int]], _ moves:[Int]) -> Int {
             let temp = board[j][i-1]
             if temp != 0 {
                 board[j][i-1] = 0
-                if array.last == target {
+                if array.last == temp {
                     array.removeLast()
                     count += 1
                 } else {
