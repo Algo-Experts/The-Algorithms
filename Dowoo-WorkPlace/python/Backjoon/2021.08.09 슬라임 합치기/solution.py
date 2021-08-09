@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/14241
 
+# 문제요약
 # 슬라임을 합치는데 크기는 x+y 점수는 x*y
 # 점수의 최대값을 구하라
 
