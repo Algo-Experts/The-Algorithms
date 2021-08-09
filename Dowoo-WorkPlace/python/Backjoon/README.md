@@ -85,4 +85,5 @@
 ###### 2021-08-08) https://www.acmicpc.net/problem/18238
 그리디 문제 29 / ZOAC2
 
-
+###### 2021-08-09) https://www.acmicpc.net/problem/14241
+그리디 문제 3 / 슬라임 합치기
