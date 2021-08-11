@@ -88,5 +88,8 @@
 ###### 2021-08-09) https://www.acmicpc.net/problem/14241
 그리디 문제 30 / 슬라임 합치기
 
-###### 2021-08-09) https://www.acmicpc.net/problem/13164
+###### 2021-08-10) https://www.acmicpc.net/problem/13164
 그리디 문제 31 / 행복유치원
+
+###### 2021-08-11) https://www.acmicpc.net/problem/16953
+그리디 문제 32 / A>B
