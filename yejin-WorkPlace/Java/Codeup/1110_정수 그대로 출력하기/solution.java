@@ -1,8 +1,3 @@
-# 1110_정수 그대로 출력하기
-
-#### 입력받은 정수를 그대로 출력한다.
-
-```JAVA
 import java.util.Scanner;
 
 public class Main {
@@ -17,7 +12,3 @@ public class Main {
 	}
 
 }
-```
-
-
-출처 : CodeUp
