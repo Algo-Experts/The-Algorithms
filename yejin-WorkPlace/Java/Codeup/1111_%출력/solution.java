@@ -1,8 +1,3 @@
-# 1110_정수 그대로 출력하기
-
-#### 입력받은 정수를 그대로 출력한다.
-
-```JAVA
 import java.util.Scanner;
 
 public class Main {
@@ -12,12 +7,8 @@ public class Main {
 		Scanner scan = new Scanner(System.in);
 		int num = scan.nextInt();
 		
-		System.out.println(num);
+		System.out.println(num + "%");
 
 	}
 
 }
-```
-
-
-출처 : CodeUp
