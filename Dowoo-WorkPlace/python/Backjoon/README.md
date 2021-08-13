@@ -96,3 +96,6 @@
 
 ###### 2021-08-12) https://www.acmicpc.net/problem/1449
 그리디 문제 33 / 수리공 항승
+
+###### 2021-08-13) https://www.acmicpc.net/problem/1543
+그리디 문제 34 / 문서검색ㄴ
