@@ -102,3 +102,6 @@
 
 ###### 2021-08-13) https://www.acmicpc.net/problem/2810
 그리디 문제 35 / 컵홀더
+
+###### 2021-08-13) https://www.acmicpc.net/problem/12904
+그리디 문제 36 / A와B
