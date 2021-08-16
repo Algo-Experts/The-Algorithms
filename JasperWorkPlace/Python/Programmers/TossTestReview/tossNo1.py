@@ -22,13 +22,9 @@ def solution(name_list):
         temp_a.append(keys)
         temp_b.append(values)
         temp_c.append(0)
-
     for name in name_list:
-
         for dupl_name in temp_a:
-
             if name == dupl_name:
-
                 answer.append(name + alpha_list[temp_c[temp_a.index(name)]])
                 temp_c[temp_a.index(name)] += 1
                 break
@@ -42,4 +38,4 @@ def solution(name_list):
     return answer
 
 
-# print(solution(["김비바", "김비바", "이비바", "김토스", "이비바", "김비바"]))
+print(solution(["강지영", "강지영", "오영준", "강지영", "오영준", "강두부", "강지영"]))
