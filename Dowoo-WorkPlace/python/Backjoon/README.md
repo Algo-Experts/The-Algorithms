@@ -108,3 +108,6 @@
 
 ###### 2021-08-16) https://www.acmicpc.net/problem/15903
 그리디 문제 37 / 카드 합체 놀이
+
+###### 2021-08-17) https://www.acmicpc.net/problem/2012
+그리디 문제 38 / 등수 매기기
