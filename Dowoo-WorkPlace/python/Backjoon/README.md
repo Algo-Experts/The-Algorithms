@@ -111,3 +111,7 @@
 
 ###### 2021-08-17) https://www.acmicpc.net/problem/2012
 그리디 문제 38 / 등수 매기기
+
+###### 2021-08-18) https://www.acmicpc.net/problem/2212
+그리디 문제 39 / 센서
+
