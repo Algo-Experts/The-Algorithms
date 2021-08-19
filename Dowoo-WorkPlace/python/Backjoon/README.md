@@ -115,3 +115,5 @@
 ###### 2021-08-18) https://www.acmicpc.net/problem/2212
 그리디 문제 39 / 센서
 
+###### 2021-08-19) https://www.acmicpc.net/problem/15904
+그리디 문제 40 / UCPC는 무엇의 약자일까?
