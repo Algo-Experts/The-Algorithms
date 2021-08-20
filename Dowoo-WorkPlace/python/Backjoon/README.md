@@ -117,3 +117,6 @@
 
 ###### 2021-08-19) https://www.acmicpc.net/problem/15904
 그리디 문제 40 / UCPC는 무엇의 약자일까?
+
+###### 2021-08-20) https://www.acmicpc.net/problem/1758
+그리디 문제 41 / 알바생 강호
