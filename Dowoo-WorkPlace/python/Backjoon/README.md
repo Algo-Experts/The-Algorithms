@@ -120,3 +120,6 @@
 
 ###### 2021-08-20) https://www.acmicpc.net/problem/1758
 그리디 문제 41 / 알바생 강호
+
+###### 2021-08-20) https://www.acmicpc.net/problem/14659
+그리디 문제 42 / 한조서열정리하고옴
