@@ -123,3 +123,6 @@
 
 ###### 2021-08-20) https://www.acmicpc.net/problem/14659
 그리디 문제 42 / 한조서열정리하고옴
+
+###### 2021-08-21) https://www.acmicpc.net/problem/1700
+그리디 문제 43 / 멀티탭 스케줄링
