@@ -12,8 +12,6 @@
 
 [6. 약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
 
-[7. 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
-
 [8. 로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 
 [9. 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
@@ -25,7 +23,5 @@
 [12. 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
 
 [13. K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
-
-[14. 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 
 > 끝나면 정리후 2단계 시작
