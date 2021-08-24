@@ -121,11 +121,14 @@
 ###### 2021-08-20) https://www.acmicpc.net/problem/1758
 그리디 문제 41 / 알바생 강호
 
-###### 2021-08-20) https://www.acmicpc.net/problem/14659
+###### 2021-08-21) https://www.acmicpc.net/problem/14659
 그리디 문제 42 / 한조서열정리하고옴
 
-###### 2021-08-21) https://www.acmicpc.net/problem/1700
+###### 2021-08-22) https://www.acmicpc.net/problem/1700
 그리디 문제 43 / 멀티탭 스케줄링
 
-###### 2021-08-22) https://www.acmicpc.net/problem/1461
+###### 2021-08-23) https://www.acmicpc.net/problem/1461
 그리디 문제 44 / 도서관
+
+###### 2021-08-24) https://www.acmicpc.net/problem/14916
+그리디 문제 44 / 거스름돈
