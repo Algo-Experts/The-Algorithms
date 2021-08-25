@@ -132,3 +132,7 @@
 
 ###### 2021-08-24) https://www.acmicpc.net/problem/14916
 그리디 문제 44 / 거스름돈
+
+###### 2021-08-25) https://www.acmicpc.net/problem/15922
+그리디 문제 45 / 아우으 우아으이야!!
+
