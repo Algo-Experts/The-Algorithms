@@ -131,8 +131,23 @@
 그리디 문제 44 / 도서관
 
 ###### 2021-08-24) https://www.acmicpc.net/problem/14916
-그리디 문제 44 / 거스름돈
+그리디 문제 45 / 거스름돈
 
 ###### 2021-08-25) https://www.acmicpc.net/problem/15922
-그리디 문제 45 / 아우으 우아으이야!!
+그리디 문제 46 / 아우으 우아으이야!!
+
+###### 2021-08-26) https://www.acmicpc.net/problem/1080
+그리디 문제 47 / 행렬
+
+###### 2021-08-27) https://www.acmicpc.net/problem/1744
+그리디 문제 48 / 수 묶기
+
+###### 2021-08-28) https://www.acmicpc.net/problem/1080
+그리디 문제 49 / 팔
+
+###### 2021-08-28) https://www.acmicpc.net/problem/2812
+그리디 문제 50 / 크게만들기
+
+
+드디어 그리디 50문제 끝!!!
 
