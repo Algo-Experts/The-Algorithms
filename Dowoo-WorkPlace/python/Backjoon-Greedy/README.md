@@ -145,3 +145,9 @@
 ###### 2021-08-28) https://www.acmicpc.net/problem/1080
 그리디 문제 49 / 팔
 
+###### 2021-08-28) https://www.acmicpc.net/problem/2812
+그리디 문제 50 / 크게만들기
+
+
+드디어 그리디 50문제 끝!!!
+
