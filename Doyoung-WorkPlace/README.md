@@ -22,4 +22,4 @@
 
 [12. 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
 
-> 끝나면 정리후 2단계 시작
+> 2단계 시작
