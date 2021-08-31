@@ -22,18 +22,14 @@ def solution(s):
 
 something = "people unFollowed me"
 
-# a = enumerate(something)
 
 answer = ''
 
 for a, b in enumerate(something):
     if a == 0:
         answer += b.upper()
-
     elif something[a-1] == ' ':
-
         answer += (b.upper())
-
     else:
         answer += b.lower()
 
