@@ -3,6 +3,7 @@
 
 # fibo 를 구해보자
 
+# fibo 구할때 재귀 함수로 구하는 방법이 있는데 이걸로 한번 해보자.
 
 def get_fibo(n):
 
@@ -19,3 +20,16 @@ def solution(n):
 
 
 print(solution(5))
+
+
+# 재귀 함수로 구현시에 런타임 에러가 뜨네..
+def get_fibo_recursive(n):
+    if n == 0:
+        return 0
+    elif n == 1 or n == 2:
+        return 1
+    else:
+        return get_fibo_recursive(n - 1) + get_fibo_recursive(n - 2)
+
+
+print(get_fibo_recursive(3))
