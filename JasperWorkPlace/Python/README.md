@@ -79,6 +79,19 @@ JOIN 함수 정리
 
 Numpy 정리
 
+```python
+
+import numpy as np
+
+array = np.array([1,2,3])
+
+print(array.size)
+print(array.dtype)
+print(array[2])
+
+
+```
+
 ### 람다 표현식
 
 > 람다 표현식 이란?
