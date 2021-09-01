@@ -150,6 +150,22 @@ arr_s = list(map(int, s.split()))
 
 ```
 
+진법 문제가 나올경우 이걸 생각한다.
+
+```python
+
+def get_digits(바꾸고 싶은 10진법의 숫자 = n , 몇진법 = k):
+    temp = "0123456789ABCDEF"
+
+    i , j = divmod(n , k)
+
+    if i == 0:
+        return temp[j]
+    else:
+        return get_digits(i , k) + temp[j]
+
+```
+
 ### 람다 표현식
 
 > 람다 표현식 이란?
