@@ -79,7 +79,7 @@ JOIN 함수 정리
 
 Numpy 정리
 
-````python
+```python
 
 import numpy as np
 
@@ -118,6 +118,7 @@ print(arr3.shape)
 
 numpy 배열을 나눌때에는 split() 함수를 사용하며 이는 concatenate() 함수와 흡사하게 동작한다.
 2 x 4 배열을 왼쪽과 오른쪽으로 이등분하는 코드
+```
 
 ```python
 
@@ -129,11 +130,23 @@ print(right[1][1])
 
 ```
 
+```python
+
 # numpy 행렬의 곱
+
+answer = (np.matrix(arr1) * np.matrix(arr2)).tolist()
+
+```
+
+map으로 형 변환까지 하며 list 로 변환
 
 ```python
 
-answer = (np.matrix(arr1) * np.matrix(arr2)).tolist()
+s = "1 2 3 4"
+
+arr_s = list(map(int, s.split()))
+
+# arr_s = [1,2,3,4]
 
 ```
 
@@ -234,4 +247,7 @@ list(filter(lambda x : x < 5 ,range(10)))
 
 
 ```
-````
+
+```
+
+```
