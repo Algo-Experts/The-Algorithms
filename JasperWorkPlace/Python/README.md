@@ -79,16 +79,61 @@ JOIN 함수 정리
 
 Numpy 정리
 
-```python
+````python
 
 import numpy as np
 
+# numpy 기본 사용법
 array = np.array([1,2,3])
 
 print(array.size)
 print(array.dtype)
 print(array[2])
 
+# numpy로 배열 만들기
+
+array1 = np.arange(4)
+
+# Numpy 로 배열 합치기
+arr1 = np.array([1,2,3])
+arr2 = np.array([4,5,6])
+arr3 = np.concatenate([arr1 , arr2])
+
+# 배열의 형태 바꾸기
+
+arr1 = np.array([1,2,3,4])
+arr2 = arr1.reshape((2,2))
+
+print(arr2.shape)
+
+# numpy 배열을 세로 축으로 합치기
+
+arr1 = np.arange(4).reshape(1,4)
+arr2 = np.arange(8).reshape(2,4)
+
+arr3 = np.concatenate([arr1 , arr2], axis = 0)
+print(arr3.shape)
+
+# numpy 배열을 나누기
+
+numpy 배열을 나눌때에는 split() 함수를 사용하며 이는 concatenate() 함수와 흡사하게 동작한다.
+2 x 4 배열을 왼쪽과 오른쪽으로 이등분하는 코드
+
+```python
+
+array = np.arange(8).reshape(2,4)
+left ,right = np.split(array , [2] , axis = 1)
+print(left.shape)
+print(right.shape)
+print(right[1][1])
+
+```
+
+# numpy 행렬의 곱
+
+```python
+
+answer = (np.matrix(arr1) * np.matrix(arr2)).tolist()
 
 ```
 
@@ -189,3 +234,4 @@ list(filter(lambda x : x < 5 ,range(10)))
 
 
 ```
+````
