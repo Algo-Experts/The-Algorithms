@@ -9,3 +9,9 @@ DP 문제3 / 피보나치 수 5
 
 ###### 2021-09-02) https://www.acmicpc.net/problem/1003
 DP 문제4 / 피보나치 함수
+
+###### 2021-09-03) https://www.acmicpc.net/problem/11726
+DP 문제5 / 2xn 타일링
+
+###### 2021-09-04) https://www.acmicpc.net/problem/1149
+DP 문제6 / RGB거리
