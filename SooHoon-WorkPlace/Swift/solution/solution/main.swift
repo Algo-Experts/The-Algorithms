@@ -7,5 +7,10 @@
 
 import Foundation
 
-print("Hello, World!")
+var input = readLine()
+
+
+for num in 1...Int(input!)! {
+    print("\(num)")
+}
 
