@@ -22,7 +22,6 @@ def solution(s):
 
 something = "people unFollowed me"
 
-# a = enumerate(something)
 
 answer = ''
 
