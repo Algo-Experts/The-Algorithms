@@ -21,3 +21,6 @@ DP 문제7 / 계단오르기
 
 ###### 2021-09-06) https://www.acmicpc.net/problem/1932
 DP 문제8 / 정수 삼각형
+
+###### 2021-09-07) https://www.acmicpc.net/problem/11053
+DP 문제9 / 가장 긴 증가하는 부분 수열
