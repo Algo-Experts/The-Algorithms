@@ -24,3 +24,9 @@ DP 문제8 / 정수 삼각형
 
 ###### 2021-09-07) https://www.acmicpc.net/problem/11053
 DP 문제9 / 가장 긴 증가하는 부분 수열
+
+###### 2021-09-08) https://www.acmicpc.net/problem/1912
+DP 문제10 / 연속합
+
+###### 2021-09-09) https://www.acmicpc.net/problem/2156
+DP 문제11 / 포도주 시식
