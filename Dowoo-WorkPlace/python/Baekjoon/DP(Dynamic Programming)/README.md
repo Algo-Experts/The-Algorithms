@@ -31,5 +31,8 @@ DP 문제10 / 연속합
 ###### 2021-09-09) https://www.acmicpc.net/problem/2156
 DP 문제11 / 포도주 시식
 
-###### 2021-09-09) https://www.acmicpc.net/problem/2748
+###### 2021-09-10) https://www.acmicpc.net/problem/2748
 DP 문제12 / 피보나치 수2
+
+###### 2021-09-10) https://www.acmicpc.net/problem/2193
+DP 문제13 / 이친수
