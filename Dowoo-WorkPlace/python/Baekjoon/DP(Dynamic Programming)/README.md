@@ -36,3 +36,6 @@ DP 문제12 / 피보나치 수2
 
 ###### 2021-09-10) https://www.acmicpc.net/problem/2193
 DP 문제13 / 이친수
+
+###### 2021-09-11) https://www.acmicpc.net/problem/10844
+DP 문제13 / 쉬운 계단 수
