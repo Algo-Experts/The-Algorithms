@@ -13,7 +13,6 @@ def solution(numbers):
             get_combination = int("".join(num))
             combination_array.append(get_combination)
 
-    print(combination_array)
     for n in set(combination_array):
         count = 0
         for j in range(2, n):
