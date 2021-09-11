@@ -50,3 +50,4 @@ for i in 1...arrayKind.count {
     }
 }
 print("결과 : ", result)
+
