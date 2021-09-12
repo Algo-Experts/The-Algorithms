@@ -39,3 +39,6 @@ DP 문제13 / 이친수
 
 ###### 2021-09-11) https://www.acmicpc.net/problem/10844
 DP 문제13 / 쉬운 계단 수
+
+###### 2021-09-11) https://www.acmicpc.net/problem/11727
+DP 문제14 / 2x타일링 2 
