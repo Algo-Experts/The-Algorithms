@@ -2,8 +2,6 @@
 
 [1. 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
 
-[2. 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
-
 [3. 2016년]( https://programmers.co.kr/learn/courses/30/lessons/12901)
 
 [4. 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
