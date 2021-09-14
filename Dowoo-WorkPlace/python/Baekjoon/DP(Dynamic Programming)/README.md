@@ -45,3 +45,6 @@ DP 문제14 / 2x타일링 2
 
 ###### 2021-09-12) https://www.acmicpc.net/problem/9461
 DP 문제15 / 파도반수열
+
+###### 2021-09-12) https://www.acmicpc.net/problem/14501
+DP 문제16 / 퇴사
