@@ -40,11 +40,14 @@ DP 문제13 / 이친수
 ###### 2021-09-11) https://www.acmicpc.net/problem/10844
 DP 문제13 / 쉬운 계단 수
 
-###### 2021-09-11) https://www.acmicpc.net/problem/11727
+###### 2021-09-12) https://www.acmicpc.net/problem/11727
 DP 문제14 / 2x타일링 2 
 
-###### 2021-09-12) https://www.acmicpc.net/problem/9461
+###### 2021-09-13) https://www.acmicpc.net/problem/9461
 DP 문제15 / 파도반수열
 
-###### 2021-09-12) https://www.acmicpc.net/problem/14501
+###### 2021-09-14) https://www.acmicpc.net/problem/14501
 DP 문제16 / 퇴사
+
+###### 2021-09-15) https://www.acmicpc.net/problem/14501
+DP 문제17 / 다리 놓기
