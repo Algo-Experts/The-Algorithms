@@ -24,11 +24,4 @@ def solution(str1, str2):
     return math.floor((gyo_sum/hap_sum)*65536)
 
 
-print(solution("FRANCE", "french"))
-
-
-def re_Library_Check():
-
-    print(re)
-
-    return
+# print(solution("FRANCE", "french"))
