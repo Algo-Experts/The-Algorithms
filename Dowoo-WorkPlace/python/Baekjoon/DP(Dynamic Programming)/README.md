@@ -54,3 +54,6 @@ DP 문제17 / 다리 놓기
 
 ###### 2021-09-16) https://www.acmicpc.net/problem/11052
 DP 문제18 / 카드 구매하기
+
+###### 2021-09-17) https://www.acmicpc.net/problem/9465
+DP 문제19 / 스티커
