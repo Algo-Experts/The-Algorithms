@@ -57,3 +57,6 @@ DP 문제18 / 카드 구매하기
 
 ###### 2021-09-17) https://www.acmicpc.net/problem/9465
 DP 문제19 / 스티커
+
+###### 2021-09-18) https://www.acmicpc.net/problem/1904
+DP 문제20 / 01타일
