@@ -60,3 +60,6 @@ DP 문제19 / 스티커
 
 ###### 2021-09-18) https://www.acmicpc.net/problem/1904
 DP 문제20 / 01타일
+
+###### 2021-09-19) https://www.acmicpc.net/problem/11057
+DP 문제21 / 오르막 수
