@@ -66,3 +66,6 @@ DP 문제21 / 오르막 수
 
 ###### 2021-09-20) https://www.acmicpc.net/problem/2293
 DP 문제22 / 동전1
+
+###### 2021-09-21) https://www.acmicpc.net/problem/9251
+DP 문제23 / LCS
