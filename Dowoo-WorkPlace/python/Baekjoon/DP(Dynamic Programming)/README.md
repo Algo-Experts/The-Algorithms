@@ -63,3 +63,6 @@ DP 문제20 / 01타일
 
 ###### 2021-09-19) https://www.acmicpc.net/problem/11057
 DP 문제21 / 오르막 수
+
+###### 2021-09-20) https://www.acmicpc.net/problem/2293
+DP 문제22 / 동전1
