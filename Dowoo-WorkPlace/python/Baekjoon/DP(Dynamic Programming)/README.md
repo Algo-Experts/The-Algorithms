@@ -70,5 +70,8 @@ DP 문제22 / 동전1
 ###### 2021-09-21) https://www.acmicpc.net/problem/9251
 DP 문제23 / LCS
 
-###### 2021-09-22) https://www.acmicpc.net/problem/9251
+###### 2021-09-22) https://www.acmicpc.net/problem/11054
 DP 문제24 / 가장 긴 바이토닉 부분 수열
+
+###### 2021-09-23) https://www.acmicpc.net/problem/12865
+DP 문제25 / 평범한 배낭
