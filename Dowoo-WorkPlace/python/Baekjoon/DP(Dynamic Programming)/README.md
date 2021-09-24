@@ -78,3 +78,6 @@ DP 문제25 / 평범한 배낭
 
 ###### 2021-09-24) https://www.acmicpc.net/problem/1699
 DP 문제26 / 제곱수의 합
+
+###### 2021-09-25) https://www.acmicpc.net/problem/11055
+DP 문제27 / 가장 큰 증가 부분 수열
