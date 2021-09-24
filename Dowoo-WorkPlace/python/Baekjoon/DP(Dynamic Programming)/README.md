@@ -75,3 +75,6 @@ DP 문제24 / 가장 긴 바이토닉 부분 수열
 
 ###### 2021-09-23) https://www.acmicpc.net/problem/12865
 DP 문제25 / 평범한 배낭
+
+###### 2021-09-24) https://www.acmicpc.net/problem/1699
+DP 문제26 / 제곱수의 합
