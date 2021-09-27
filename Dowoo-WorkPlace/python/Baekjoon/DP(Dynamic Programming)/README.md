@@ -84,3 +84,6 @@ DP 문제27 / 가장 큰 증가 부분 수열
 
 ###### 2021-09-26) https://www.acmicpc.net/problem/11722
 DP 문제28 / 가장 김 감소하는 부분 수열
+
+###### 2021-09-27) https://www.acmicpc.net/problem/11051
+DP 문제29 / 이항 계수 2
