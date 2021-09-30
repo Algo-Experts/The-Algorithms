@@ -93,3 +93,6 @@ DP 문제30 / 타일채우기
 
 ###### 2021-09-29) https://www.acmicpc.net/problem/11048
 DP 문제31 / 이동하기
+
+###### 2021-09-30) https://www.acmicpc.net/problem/2294
+DP 문제32 / 동전2
