@@ -97,5 +97,8 @@ DP 문제31 / 이동하기
 ###### 2021-09-30) https://www.acmicpc.net/problem/2294
 DP 문제32 / 동전2
 
-###### 2021-09-30) https://www.acmicpc.net/problem/1520
+###### 2021-10-01) https://www.acmicpc.net/problem/1520
 DP 문제33 / 내리막길
+
+###### 2021-10-02) https://www.acmicpc.net/problem/2225
+DP 문제34 / 합분해
