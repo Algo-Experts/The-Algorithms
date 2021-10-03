@@ -102,3 +102,6 @@ DP 문제33 / 내리막길
 
 ###### 2021-10-02) https://www.acmicpc.net/problem/2225
 DP 문제34 / 합분해
+
+###### 2021-10-03) https://www.acmicpc.net/problem/1890
+DP 문제35 / 점프
