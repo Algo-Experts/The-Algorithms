@@ -105,3 +105,6 @@ DP 문제34 / 합분해
 
 ###### 2021-10-03) https://www.acmicpc.net/problem/1890
 DP 문제35 / 점프
+
+###### 2021-10-04) https://www.acmicpc.net/problem/1309
+DP 문제36 / 동물원
