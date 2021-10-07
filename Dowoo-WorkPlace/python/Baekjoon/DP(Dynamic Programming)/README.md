@@ -114,3 +114,6 @@ DP 문제37 / 전깃줄
 
 ###### 2021-10-06) https://www.acmicpc.net/problem/1937
 DP 문제38 / 욕심쟁이 판다
+
+###### 2021-10-07) https://www.acmicpc.net/problem/9655
+DP 문제39 / 돌게임
