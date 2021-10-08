@@ -117,3 +117,6 @@ DP 문제38 / 욕심쟁이 판다
 
 ###### 2021-10-07) https://www.acmicpc.net/problem/9655
 DP 문제39 / 돌게임
+
+###### 2021-10-08) https://www.acmicpc.net/problem/9252
+DP 문제40 / LCK2
