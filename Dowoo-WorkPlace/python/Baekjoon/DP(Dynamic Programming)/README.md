@@ -120,3 +120,6 @@ DP 문제39 / 돌게임
 
 ###### 2021-10-08) https://www.acmicpc.net/problem/9252
 DP 문제40 / LCK2
+
+###### 2021-10-09) https://www.acmicpc.net/problem/2096
+DP 문제41 / 내려가기
