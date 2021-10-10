@@ -123,3 +123,6 @@ DP 문제40 / LCK2
 
 ###### 2021-10-09) https://www.acmicpc.net/problem/2096
 DP 문제41 / 내려가기
+
+###### 2021-10-10) https://www.acmicpc.net/problem/11066
+DP 문제42 / 가장 큰 정사각형
