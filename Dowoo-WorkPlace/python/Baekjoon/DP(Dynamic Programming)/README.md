@@ -125,4 +125,7 @@ DP 문제40 / LCK2
 DP 문제41 / 내려가기
 
 ###### 2021-10-10) https://www.acmicpc.net/problem/11066
-DP 문제42 / 가장 큰 정사각형
+DP 문제42 / 파일 합치기
+
+###### 2021-10-11) https://www.acmicpc.net/problem/1915
+DP 문제43 / 가장 큰 정사각형
