@@ -139,3 +139,5 @@ DP 문제45 / 구간 합 구하기5
 ###### 2021-10-14) https://www.acmicpc.net/problem/11660
 DP 문제46 / 상자넣기
 
+###### 2021-10-15) https://www.acmicpc.net/problem/17070
+DP 문제47 / 파이프 옮기기1
