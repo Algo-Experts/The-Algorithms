@@ -141,3 +141,8 @@ DP 문제46 / 상자넣기
 
 ###### 2021-10-15) https://www.acmicpc.net/problem/17070
 DP 문제47 / 파이프 옮기기1
+
+###### 2021-10-15) https://www.acmicpc.net/problem/9184
+DP 문제48 / 신나는 함수 실행
+
+
