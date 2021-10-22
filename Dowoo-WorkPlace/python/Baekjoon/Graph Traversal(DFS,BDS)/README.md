@@ -6,3 +6,6 @@
 
 ###### 2021-10-21) https://www.acmicpc.net/problem/2667
 탐색 문제3 / 단지번호붙이기
+
+###### 2021-10-22) https://www.acmicpc.net/problem/2606
+탐색 문제4 / 바이러스
