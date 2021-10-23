@@ -9,3 +9,6 @@
 
 ###### 2021-10-22) https://www.acmicpc.net/problem/2606
 탐색 문제4 / 바이러스
+
+###### 2021-10-23) https://www.acmicpc.net/problem/7576
+탐색 문제5  / 토마토
