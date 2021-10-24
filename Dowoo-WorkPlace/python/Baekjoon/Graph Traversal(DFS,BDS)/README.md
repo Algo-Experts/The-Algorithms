@@ -12,3 +12,6 @@
 
 ###### 2021-10-23) https://www.acmicpc.net/problem/7576
 탐색 문제5  / 토마토
+
+###### 2021-10-24) https://www.acmicpc.net/problem/1012
+탐색 문제6  / 유기농배추
