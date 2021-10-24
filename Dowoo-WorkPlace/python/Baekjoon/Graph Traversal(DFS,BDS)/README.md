@@ -15,3 +15,6 @@
 
 ###### 2021-10-24) https://www.acmicpc.net/problem/1012
 탐색 문제6  / 유기농배추
+
+###### 2021-10-25) https://www.acmicpc.net/problem/1697
+탐색 문제7  / 숨바꼭질
