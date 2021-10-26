@@ -18,3 +18,6 @@
 
 ###### 2021-10-25) https://www.acmicpc.net/problem/1697
 탐색 문제7  / 숨바꼭질
+
+###### 2021-10-26) https://www.acmicpc.net/problem/11724
+탐색 문제8  / 연결 요소의 개수
