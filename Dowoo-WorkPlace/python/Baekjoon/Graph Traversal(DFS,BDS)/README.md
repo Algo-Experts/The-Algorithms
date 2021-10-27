@@ -21,3 +21,6 @@
 
 ###### 2021-10-26) https://www.acmicpc.net/problem/11724
 탐색 문제8  / 연결 요소의 개수
+
+###### 2021-10-27) https://www.acmicpc.net/problem/14502
+탐색 문제9  / 연구소
