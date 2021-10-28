@@ -24,3 +24,6 @@
 
 ###### 2021-10-27) https://www.acmicpc.net/problem/14502
 탐색 문제9  / 연구소
+
+###### 2021-10-28) https://www.acmicpc.net/problem/4963
+탐색 문제10  / 섬의 개수
