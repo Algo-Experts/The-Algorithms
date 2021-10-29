@@ -27,3 +27,6 @@
 
 ###### 2021-10-28) https://www.acmicpc.net/problem/4963
 탐색 문제10  / 섬의 개수
+
+###### 2021-10-29) https://www.acmicpc.net/problem/2468
+탐색 문제11  / 안전 영역
