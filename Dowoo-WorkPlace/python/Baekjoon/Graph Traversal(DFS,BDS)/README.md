@@ -30,3 +30,6 @@
 
 ###### 2021-10-29) https://www.acmicpc.net/problem/2468
 탐색 문제11  / 안전 영역
+
+###### 2021-10-30) https://www.acmicpc.net/problem/1987
+탐색 문제12  / 알파벳
