@@ -33,3 +33,6 @@
 
 ###### 2021-10-30) https://www.acmicpc.net/problem/1987
 탐색 문제12  / 알파벳
+
+###### 2021-10-31) https://www.acmicpc.net/problem/10026
+탐색 문제13  / 적록색약
