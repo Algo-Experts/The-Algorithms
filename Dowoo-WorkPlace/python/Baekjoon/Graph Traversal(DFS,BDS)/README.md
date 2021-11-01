@@ -36,3 +36,6 @@
 
 ###### 2021-10-31) https://www.acmicpc.net/problem/10026
 탐색 문제13  / 적록색약
+
+###### 2021-11-1) https://www.acmicpc.net/problem/7569
+탐색 문제14  / 토마토2
