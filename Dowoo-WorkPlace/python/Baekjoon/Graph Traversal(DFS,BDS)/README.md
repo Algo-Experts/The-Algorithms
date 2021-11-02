@@ -39,3 +39,6 @@
 
 ###### 2021-11-1) https://www.acmicpc.net/problem/7569
 탐색 문제14  / 토마토2
+
+###### 2021-11-2) https://www.acmicpc.net/problem/7562
+탐색 문제15  / 나이트의 이동
