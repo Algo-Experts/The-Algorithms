@@ -37,8 +37,11 @@
 ###### 2021-10-31) https://www.acmicpc.net/problem/10026
 탐색 문제13  / 적록색약
 
-###### 2021-11-1) https://www.acmicpc.net/problem/7569
+###### 2021-11-01) https://www.acmicpc.net/problem/7569
 탐색 문제14  / 토마토2
 
-###### 2021-11-2) https://www.acmicpc.net/problem/7562
+###### 2021-11-02) https://www.acmicpc.net/problem/7562
 탐색 문제15  / 나이트의 이동
+
+###### 2021-11-03) https://www.acmicpc.net/problem/2206
+탐색 문제16  / 벽 부수고 이동하기
