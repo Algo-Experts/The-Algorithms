@@ -45,3 +45,6 @@
 
 ###### 2021-11-03) https://www.acmicpc.net/problem/2206
 탐색 문제16  / 벽 부수고 이동하기
+
+###### 2021-11-03) https://www.acmicpc.net/problem/2583
+탐색 문제17  / 영역 구하기
