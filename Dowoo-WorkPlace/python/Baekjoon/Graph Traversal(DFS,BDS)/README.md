@@ -46,5 +46,8 @@
 ###### 2021-11-03) https://www.acmicpc.net/problem/2206
 탐색 문제16  / 벽 부수고 이동하기
 
-###### 2021-11-03) https://www.acmicpc.net/problem/2583
+###### 2021-11-04) https://www.acmicpc.net/problem/2583
 탐색 문제17  / 영역 구하기
+
+###### 2021-11-05) https://www.acmicpc.net/problem/11725
+탐색 문제18  / 트리의 부모찾기
