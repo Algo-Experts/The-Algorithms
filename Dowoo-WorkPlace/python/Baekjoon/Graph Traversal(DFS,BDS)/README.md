@@ -51,3 +51,6 @@
 
 ###### 2021-11-05) https://www.acmicpc.net/problem/11725
 탐색 문제18  / 트리의 부모찾기
+
+###### 2021-11-06) https://www.acmicpc.net/problem/16236
+탐색 문제19  / 아기상어
