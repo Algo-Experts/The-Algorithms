@@ -54,3 +54,6 @@
 
 ###### 2021-11-06) https://www.acmicpc.net/problem/16236
 탐색 문제19  / 아기상어
+
+###### 2021-11-07) https://www.acmicpc.net/problem/2644
+탐색 문제20  / 촌수계산
