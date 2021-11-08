@@ -57,3 +57,6 @@
 
 ###### 2021-11-07) https://www.acmicpc.net/problem/2644
 탐색 문제20  / 촌수계산
+
+###### 2021-11-08) https://www.acmicpc.net/problem/666
+탐색 문제21  / 구슬탈출2
