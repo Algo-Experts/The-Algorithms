@@ -63,3 +63,6 @@
 
 ###### 2021-11-09) https://www.acmicpc.net/problem/1707
 탐색 문제22  / 이분 그래프
+
+###### 2021-11-10) https://www.acmicpc.net/problem/1389
+탐색 문제23  / 케빈베이컨의 6단계 법칙
