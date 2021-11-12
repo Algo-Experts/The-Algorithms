@@ -67,5 +67,8 @@
 ###### 2021-11-10) https://www.acmicpc.net/problem/1389
 탐색 문제23  / 케빈베이컨의 6단계 법칙
 
-###### 2021-11-10) https://www.acmicpc.net/problem/16234
+###### 2021-11-11) https://www.acmicpc.net/problem/16234
 탐색 문제24  / 인구이동
+
+###### 2021-11-12) https://www.acmicpc.net/problem/3055
+탐색 문제25  / 탈출
