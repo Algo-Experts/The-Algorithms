@@ -72,3 +72,6 @@
 
 ###### 2021-11-12) https://www.acmicpc.net/problem/3055
 탐색 문제25  / 탈출
+
+###### 2021-11-13) https://www.acmicpc.net/problem/2573
+탐색 문제26  / 빙산
