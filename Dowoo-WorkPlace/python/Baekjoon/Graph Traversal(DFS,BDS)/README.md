@@ -75,3 +75,6 @@
 
 ###### 2021-11-13) https://www.acmicpc.net/problem/2573
 탐색 문제26  / 빙산
+
+###### 2021-11-14) https://www.acmicpc.net/problem/9019
+탐색 문제27  / DSLR
