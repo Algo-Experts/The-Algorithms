@@ -78,3 +78,6 @@
 
 ###### 2021-11-14) https://www.acmicpc.net/problem/9019
 탐색 문제27  / DSLR
+
+###### 2021-11-15) https://www.acmicpc.net/problem/1967
+탐색 문제28  / 트리의 지름
