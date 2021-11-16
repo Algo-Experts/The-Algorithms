@@ -81,3 +81,6 @@
 
 ###### 2021-11-15) https://www.acmicpc.net/problem/1967
 탐색 문제28  / 트리의 지름
+
+###### 2021-11-16) https://www.acmicpc.net/problem/1967
+탐색 문제29  / 보물섬
