@@ -87,3 +87,6 @@
 
 ###### 2021-11-17) https://www.acmicpc.net/problem/13549
 탐색 문제30  / 숨바꼭질3
+
+###### 2021-11-18) https://www.acmicpc.net/problem/5014
+탐색 문제31  / 스타트링크
