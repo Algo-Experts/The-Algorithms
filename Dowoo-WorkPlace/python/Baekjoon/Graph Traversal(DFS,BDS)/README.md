@@ -90,3 +90,6 @@
 
 ###### 2021-11-18) https://www.acmicpc.net/problem/5014
 탐색 문제31  / 스타트링크
+
+###### 2021-11-19) https://www.acmicpc.net/problem/1167
+탐색 문제32  / 트리의 지름2
