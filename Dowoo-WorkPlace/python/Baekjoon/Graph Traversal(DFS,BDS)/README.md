@@ -93,3 +93,6 @@
 
 ###### 2021-11-19) https://www.acmicpc.net/problem/1167
 탐색 문제32  / 트리의 지름2
+
+###### 2021-11-19) https://www.acmicpc.net/problem/9466
+탐색 문제33  / 팀 프로젝트
