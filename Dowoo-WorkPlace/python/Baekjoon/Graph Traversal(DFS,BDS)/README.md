@@ -96,3 +96,6 @@
 
 ###### 2021-11-19) https://www.acmicpc.net/problem/9466
 탐색 문제33  / 팀 프로젝트
+
+###### 2021-11-20) https://www.acmicpc.net/problem/2146
+탐색 문제34  / 다리만들기
