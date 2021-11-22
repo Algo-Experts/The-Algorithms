@@ -99,3 +99,6 @@
 
 ###### 2021-11-20) https://www.acmicpc.net/problem/2146
 탐색 문제34  / 다리만들기
+
+###### 2021-11-20) https://www.acmicpc.net/problem/1068
+탐색 문제35  / 트리
