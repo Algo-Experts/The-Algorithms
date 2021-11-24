@@ -103,5 +103,8 @@
 ###### 2021-11-22) https://www.acmicpc.net/problem/1068
 탐색 문제35  / 트리
 
-###### 2021-11-23) https://www.acmicpc.net/problem/1068
+###### 2021-11-23) https://www.acmicpc.net/problem/2636
 탐색 문제36  / 치즈
+
+###### 2021-11-24) https://www.acmicpc.net/problem/1976
+탐색 문제37  / 치즈
