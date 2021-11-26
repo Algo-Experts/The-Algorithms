@@ -109,5 +109,8 @@
 ###### 2021-11-24) https://www.acmicpc.net/problem/1976
 탐색 문제37  / 여행가자
 
-###### 2021-11-24) https://www.acmicpc.net/problem/5639
+###### 2021-11-25) https://www.acmicpc.net/problem/5639
 탐색 문제38  / 이진 검색 트리
+
+###### 2021-11-26) https://www.acmicpc.net/problem/5639
+탐색 문제39  / 숨바꼭질4
