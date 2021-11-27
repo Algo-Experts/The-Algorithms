@@ -114,3 +114,6 @@
 
 ###### 2021-11-26) https://www.acmicpc.net/problem/5639
 탐색 문제39  / 숨바꼭질4
+
+###### 2021-11-27) https://www.acmicpc.net/problem/1963
+탐색 문제40  / 소수경로
