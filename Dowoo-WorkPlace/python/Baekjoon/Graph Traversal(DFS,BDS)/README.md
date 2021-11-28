@@ -117,3 +117,6 @@
 
 ###### 2021-11-27) https://www.acmicpc.net/problem/1963
 탐색 문제40  / 소수경로
+
+###### 2021-11-28) https://www.acmicpc.net/problem/9205
+탐색 문제41  / 맥주마시면서 걸어가기
