@@ -120,3 +120,6 @@
 
 ###### 2021-11-28) https://www.acmicpc.net/problem/9205
 탐색 문제41  / 맥주마시면서 걸어가기
+
+###### 2021-11-29) https://www.acmicpc.net/problem/17142
+탐색 문제42  / 연구소
