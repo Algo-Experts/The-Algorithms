@@ -123,3 +123,8 @@
 
 ###### 2021-11-29) https://www.acmicpc.net/problem/17142
 탐색 문제42  / 연구소
+
+###### 2021-11-30) https://www.acmicpc.net/problem/1325
+탐색 문제43  / 효율적인 해킹
+
+
