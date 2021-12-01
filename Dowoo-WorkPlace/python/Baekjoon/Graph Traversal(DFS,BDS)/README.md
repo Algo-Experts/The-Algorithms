@@ -127,4 +127,7 @@
 ###### 2021-11-30) https://www.acmicpc.net/problem/1325
 탐색 문제43  / 효율적인 해킹
 
+###### 2021-12-01) https://www.acmicpc.net/problem/1600
+탐색 문제44  / 말이 되고픈 원숭이
+
 
