@@ -130,4 +130,7 @@
 ###### 2021-12-01) https://www.acmicpc.net/problem/1600
 탐색 문제44  / 말이 되고픈 원숭이
 
+###### 2021-12-02) https://www.acmicpc.net/problem/2638
+탐색 문제45  / 치즈2
+
 
