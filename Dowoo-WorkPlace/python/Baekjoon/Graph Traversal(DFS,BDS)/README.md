@@ -136,3 +136,5 @@
 ###### 2021-12-03) https://www.acmicpc.net/problem/12851
 탐색 문제46  / 숨바꼭질2
 
+###### 2021-12-04) https://www.acmicpc.net/problem/12851
+탐색 문제47  / puyo puyo
