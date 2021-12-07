@@ -144,3 +144,6 @@
 
 ###### 2021-12-06) https://www.acmicpc.net/problem/2458
 탐색 문제49  / 키순서
+
+###### 2021-12-07) https://www.acmicpc.net/problem/5427
+탐색 문제50  / 불
