@@ -3,3 +3,6 @@
 
 ###### 2021-12-09) https://www.acmicpc.net/problem/8958
 문자열 문제2 / OX퀴즈
+
+###### 2021-12-10) https://www.acmicpc.net/problem/1152
+문자열 문제3 / 단어의 개수
