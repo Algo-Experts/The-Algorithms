@@ -9,3 +9,6 @@
 
 ###### 2021-12-11) https://www.acmicpc.net/problem/10809
 문자열 문제4 / 알파벳 찾기
+
+###### 2021-12-12) https://www.acmicpc.net/problem/2675
+문자열 문제5 / 문자열 반복
