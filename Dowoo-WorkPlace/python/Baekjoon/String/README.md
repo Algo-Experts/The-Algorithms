@@ -12,3 +12,6 @@
 
 ###### 2021-12-12) https://www.acmicpc.net/problem/2675
 문자열 문제5 / 문자열 반복
+
+###### 2021-12-13) https://www.acmicpc.net/problem/1157
+문자열 문제6 / 단어공부
