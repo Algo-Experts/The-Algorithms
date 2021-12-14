@@ -15,3 +15,6 @@
 
 ###### 2021-12-13) https://www.acmicpc.net/problem/1157
 문자열 문제6 / 단어공부
+
+###### 2021-12-14) https://www.acmicpc.net/problem/9012
+문자열 문제7 / 괄호
