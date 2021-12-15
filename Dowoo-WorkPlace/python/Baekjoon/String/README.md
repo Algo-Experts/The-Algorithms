@@ -18,3 +18,6 @@
 
 ###### 2021-12-14) https://www.acmicpc.net/problem/9012
 문자열 문제7 / 괄호
+
+###### 2021-12-15) https://www.acmicpc.net/problem/1316
+문자열 문제8 / 그룹 단어 체커
