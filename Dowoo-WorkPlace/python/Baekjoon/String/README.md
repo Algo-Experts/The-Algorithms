@@ -24,3 +24,6 @@
 
 ###### 2021-12-16) https://www.acmicpc.net/problem/2941
 문자열 문제9 / 크로아티아 알파벳
+
+###### 2021-12-17) https://www.acmicpc.net/problem/2941
+문자열 문제10 / 그대로 출력하기
