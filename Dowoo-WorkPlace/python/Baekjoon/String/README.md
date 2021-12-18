@@ -27,3 +27,6 @@
 
 ###### 2021-12-17) https://www.acmicpc.net/problem/2941
 문자열 문제10 / 그대로 출력하기
+
+###### 2021-12-18) https://www.acmicpc.net/problem/11721
+문자열 문제11 / 열개씩 끊어 출력하기
