@@ -30,3 +30,6 @@
 
 ###### 2021-12-18) https://www.acmicpc.net/problem/11721
 문자열 문제11 / 열개씩 끊어 출력하기
+
+###### 2021-12-19) https://www.acmicpc.net/problem/11719
+문자열 문제12 / 그대로출력하기2
