@@ -39,3 +39,6 @@
 
 ###### 2021-12-21) https://www.acmicpc.net/problem/1181
 문자열 문제14 / 단어정렬
+
+###### 2021-12-22) https://www.acmicpc.net/problem/10953
+문자열 문제15 / A+B-6
