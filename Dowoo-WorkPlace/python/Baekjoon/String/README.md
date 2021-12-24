@@ -45,3 +45,6 @@
 
 ###### 2021-12-23) https://www.acmicpc.net/problem/10808
 문자열 문제16 / 알파벳개수
+
+###### 2021-12-24) https://www.acmicpc.net/problem/2743
+문자열 문제17 / 단어길이 재기
