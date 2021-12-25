@@ -48,3 +48,6 @@
 
 ###### 2021-12-24) https://www.acmicpc.net/problem/2743
 문자열 문제17 / 단어길이 재기
+
+###### 2021-12-25) https://www.acmicpc.net/problem/1764
+문자열 문제18 / 듣보잡
