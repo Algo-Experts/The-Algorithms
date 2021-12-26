@@ -51,3 +51,6 @@
 
 ###### 2021-12-25) https://www.acmicpc.net/problem/1764
 문자열 문제18 / 듣보잡
+
+###### 2021-12-26) https://www.acmicpc.net/problem/1100
+문자열 문제19 / 하얀 칸
