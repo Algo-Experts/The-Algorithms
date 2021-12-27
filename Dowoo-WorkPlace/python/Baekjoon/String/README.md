@@ -54,3 +54,6 @@
 
 ###### 2021-12-26) https://www.acmicpc.net/problem/1100
 문자열 문제19 / 하얀 칸
+
+###### 2021-12-27) https://www.acmicpc.net/problem/1032
+문자열 문제20 / 명령프롬프트
