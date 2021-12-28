@@ -57,3 +57,6 @@
 
 ###### 2021-12-27) https://www.acmicpc.net/problem/1032
 문자열 문제20 / 명령프롬프트
+
+###### 2021-12-28) https://www.acmicpc.net/problem/1259
+문자열 문제21 / 펠린드롬수
