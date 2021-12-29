@@ -60,3 +60,7 @@
 
 ###### 2021-12-28) https://www.acmicpc.net/problem/1259
 문자열 문제21 / 펠린드롬수
+
+###### 2021-12-29) https://www.acmicpc.net/problem/4949
+문자열 문제22 / 균형잡힌세상
+
