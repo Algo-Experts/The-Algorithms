@@ -64,3 +64,5 @@
 ###### 2021-12-29) https://www.acmicpc.net/problem/4949
 문자열 문제22 / 균형잡힌세상
 
+###### 2021-12-30) https://www.acmicpc.net/problem/5430
+문자열 문제23 / AC
