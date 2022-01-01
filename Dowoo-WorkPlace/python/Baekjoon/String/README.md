@@ -69,3 +69,6 @@
 
 ###### 2021-12-31) https://www.acmicpc.net/problem/2902
 문자열 문제24 / KMP는 왜 KMP일까?
+
+###### 2022-01-01) https://www.acmicpc.net/problem/10610
+문자열 문제25 / 30
