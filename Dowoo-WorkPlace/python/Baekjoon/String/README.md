@@ -72,3 +72,6 @@
 
 ###### 2022-01-01) https://www.acmicpc.net/problem/10610
 문자열 문제25 / 30
+
+###### 2022-01-02) https://www.acmicpc.net/problem/11656
+문자열 문제26 / 접미사배열
