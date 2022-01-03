@@ -75,3 +75,8 @@
 
 ###### 2022-01-02) https://www.acmicpc.net/problem/11656
 문자열 문제26 / 접미사배열
+
+###### 2022-01-03) https://www.acmicpc.net/problem/1212
+문자열 문제27 / 8진수 2진수
+
+
