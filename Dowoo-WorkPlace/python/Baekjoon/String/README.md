@@ -79,4 +79,7 @@
 ###### 2022-01-03) https://www.acmicpc.net/problem/1212
 문자열 문제27 / 8진수 2진수
 
+###### 2022-01-04) https://www.acmicpc.net/problem/10988
+문자열 문제28 / 팰린드롬인지 확인하기
+
 
