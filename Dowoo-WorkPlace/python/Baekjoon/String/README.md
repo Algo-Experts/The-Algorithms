@@ -82,4 +82,5 @@
 ###### 2022-01-04) https://www.acmicpc.net/problem/10988
 문자열 문제28 / 팰린드롬인지 확인하기
 
-
+###### 2022-01-05) https://www.acmicpc.net/problem/10798
+문자열 문제29 / 세로읽기
