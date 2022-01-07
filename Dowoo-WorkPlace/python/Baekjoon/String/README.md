@@ -88,3 +88,5 @@
 ###### 2022-01-06) https://www.acmicpc.net/problem/11655
 문자열 문제30 / ROT13
 
+###### 2022-01-07) https://www.acmicpc.net/problem/10820
+문자열 문제31 / 문자열분석
